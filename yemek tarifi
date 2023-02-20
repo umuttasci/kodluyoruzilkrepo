@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mozaik Pasta Tarifi</title>
+</head>
+<body>
+
+<h1>Mozaik Pasta Tarifi</h1>
+
+<p>Merhaba arkadaşlar bugün sizlerle mozaik pasta nasıl yapılır onu öğreneceğiz dilerseniz hemen tarife geçelim.</p>
+
+<h3>İhtiyacımız Olan Malzemeler</h3>
+
+<ul>
+    <li> <b>100 Gram</b>  Tereyağı </li>
+    <li> <b>1 Su Bardağı</b> Süt </li>
+    <li> <b>3 Yemek Kaşığı</b> Kakao </li>
+    <li> <b>4 Yemek Kaşığı</b> Pudra Şekeri (3 yemek kaşığı toz şeker kullanabilirsiniz) </li>
+    <li> <b>2 Paket</b> Petibör Bisküvi </li>
+</ul>
+
+<h3>Püf Noktası</h3>
+
+<p>Mozaik pasta tarifimizin püf noktası; arzuya göre toz şeker de kullanılabilir, yoğun bir tat için eritilmiş bitter çikolata ekleyebilirsiniz.</p>
+
+<h3>Nasıl yapılır?</h3>
+
+
+<ol>
+    <li>Tereyağını eritin.</li>
+     <img src="1.webp" alt="İlk resim">
+    
+    <li>Pudra şekerini karıştırma kabına aktarın.</li>
+     <img src="2.webp" alt="İkinci resim">
+    
+    <li>Pudra şekerinin üzerine erittiğiniz tereyağını ve sütü dökün.</li>
+     <img src="3.webp" alt="Üçüncü resim">
+    
+    <li>Kakaoyu da ilave edin.</li>
+     <img src="4.jpg" alt="Dördüncü resim">
+    
+    <li>Malzemeleri çırpın.</li>
+     <img src="5.webp" alt="Beşinci resim">
+    
+    <li>Üzerine bisküvileri kırın.</li>
+     <img src="6.webp" alt="Altıncı resim">
+    
+    <li>Bisküvileri de koyduktan sonra tüm malzemeleri spatula yardımıyla nazikçe karıştırın.</li>
+     <img src="7.jpg" alt="Yedinci resim">
+    
+    <li>Servis edeceğiniz kalıbın içini streç film ile kaplayın. Tüm harcı ekleyip, buzdolabının dondurucu bölümünde 4 saat bekletin. Dilimleyerek soğuk olarak servis edin.</li>
+     <img src="8.jpg" alt="Sekizinci resim">
+
+     <!--Resimlerin hepsi jpeg formatında değil-->
+
+</ol>
+
+<h2>Afiyet Olsun...</h2>
+
+<hr>
+
+<a href="https://yemek.com/tarif/mozaik-pasta/" target="_blank" >
+    <p>Tarifi ve görselleri aldığım sitenin linki</p> 
+</a>
+
+  
+</body>
+
+</html>
